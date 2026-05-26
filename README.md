@@ -1,4 +1,4 @@
-# University Subject Project - ElektroMart
+# University Subject Project - ElectroMart
 
 ## Overview
 This project is part of the coursework for the subject **Web applications programming** at **Rzeszow University of Technology**. It was developed using **React**, a popular JavaScript library for building user interfaces.
@@ -16,7 +16,7 @@ The objective of this project is to create a website for an electronics shop pow
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/niveroo/[project-name].git
+git clone https://github.com/yanyazh/[project-name].git
 cd [project-name].
 ```
 2. Install the required dependencies:
